@@ -12,7 +12,6 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-    - name: get code Repository
     - uses: actions/checkout@v3
     - name: Setup .NET
       uses: actions/setup-dotnet@v4

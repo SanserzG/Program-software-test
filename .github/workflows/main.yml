@@ -1,0 +1,8 @@
+name: test workflow
+on: [workflow_dispatch]
+jobs:
+  print:
+    runs-on: windows-latest
+    steps:
+      - name: Print to console
+        run: echo hello git actions

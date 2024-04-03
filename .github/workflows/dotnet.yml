@@ -1,6 +1,5 @@
 # This workflow will build a .NET project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
-
 name: .NET
 
 on:
@@ -11,24 +10,17 @@ on:
 
 jobs:
   build_and_test:
-
     runs-on: windows-latest
-
-
     steps:
-    # код репозитория
     - name: get code Repository
     - uses: actions/checkout@v3
-    #устанавливаем дотнет 6
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 6.0.x
-      #устанавливаем зависимости
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
       run: dotnet build --no-restore
-      # Запускаем тесты
     - name: Test
       run: dotnet test --no-build --verbosity normal

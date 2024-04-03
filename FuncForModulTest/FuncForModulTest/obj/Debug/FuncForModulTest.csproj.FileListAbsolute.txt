@@ -1,0 +1,8 @@
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\bin\Debug\FuncForModulTest.exe.config
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\bin\Debug\FuncForModulTest.exe
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\bin\Debug\FuncForModulTest.pdb
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\obj\Debug\FuncForModulTest.csproj.AssemblyReference.cache
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\obj\Debug\FuncForModulTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\obj\Debug\FuncForModulTest.csproj.CoreCompileInputs.cache
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\obj\Debug\FuncForModulTest.exe
+C:\Users\sans\source\repos\FuncForModulTest\FuncForModulTest\obj\Debug\FuncForModulTest.pdb

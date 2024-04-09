@@ -3978,11 +3978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sans\\source\\repos\\FuncForModulTest\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\sans\\Documents\\programm test\\Program-software-test\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\sans\\source\\repos\\FuncForModulTest\\UnitTest\\UnitTest.csproj",
+      "projectPath": "C:\\Users\\sans\\Documents\\programm test\\Program-software-test\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\sans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sans\\source\\repos\\FuncForModulTest\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\sans\\Documents\\programm test\\Program-software-test\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sans\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3999,8 +3999,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\sans\\source\\repos\\FuncForModulTest\\FuncForModulTest\\FuncForModulTest.csproj": {
-              "projectPath": "C:\\Users\\sans\\source\\repos\\FuncForModulTest\\FuncForModulTest\\FuncForModulTest.csproj"
+            "C:\\Users\\sans\\Documents\\programm test\\Program-software-test\\FuncForModulTest\\FuncForModulTest.csproj": {
+              "projectPath": "C:\\Users\\sans\\Documents\\programm test\\Program-software-test\\FuncForModulTest\\FuncForModulTest.csproj"
             }
           }
         }

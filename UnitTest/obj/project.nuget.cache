@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aN7AAyROh/FG8IkvI8Vss/IyexBY40xvAwBzenKUQX1CrzrzxKQTLrIPtFfV3LCvIa9oIS/Yeq0holA3QjIBiA==",
+  "dgSpecHash": "y8XOm+153A5O316D+IFRoBRUEzRmgzMaKM00kFb70dUlc+g4YdumJ5Rh3k8/99545/Y62jZnLhNAVX2RkS2Klg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sans\\source\\repos\\FuncForModulTest\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\sans\\Documents\\programm test\\Program-software-test\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sans\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\sans\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

@@ -16,6 +16,7 @@ namespace UnitTest
     }
     public class PalindromTests
     {
+        
         [TestCase("",false)]
         [TestCase(" ",true)]
         [TestCase("55255",true)]
